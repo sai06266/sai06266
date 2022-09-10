@@ -22,7 +22,6 @@
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 </div>
 </td><td valign="top" width="33%">
-</td><td valign="top" width="33%">
 
 ### DevOps  
 <div align="center">  
@@ -37,7 +36,6 @@
 <div align="center">
 <a href="https://github.com/sai06266" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" /></a>  
-<a href="mailto:sai06266@gmail.com><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:sai06266@gmail.com"/></a>
 </div>  
 <br/>  
 
