@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning ***Python*** and studying ***Swift***  
 
-- ❓ Ask me about   
-
 <br/>  
 
 ## My Skill Set  
