@@ -26,11 +26,10 @@
 
 ## Connect with me  
 <p align="center">
-<a href="mailto:sai06266@gmail.com><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sai06266@gmail.com"/></a>
-<a href="https://github.com/sai06266" target="_blank"><img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" /></a>  
+<a href="https://github.com/sai06266" target="_blank"><img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github"/></a>  
 </p>  
 <br/>  
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sai06266&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sai06266&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
 <br/>
