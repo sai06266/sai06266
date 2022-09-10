@@ -2,7 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
-### I'm Jaemin Jeong, a college student 👨‍🎓 since 2019 🚀
+### <div align="center">I'm Jaemin Jeong, a college student 👨‍🎓 since 2019 🚀</div>  
   
 - 🔭 I’m studying at ***Seoul National University of Science and Technology🎓***  
 
