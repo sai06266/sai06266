@@ -26,7 +26,7 @@
 
 ## Connect with me  
 <p align="center">
-<a href="mailto:sai06266@gmail.com><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:sai06266@gmail.com"/></a>
+<a href="mailto:sai06266@gmail.com><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sai06266@gmail.com"/></a>
 <a href="https://github.com/sai06266" target="_blank"><img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" /></a>  
 </p>  
 <br/>  
