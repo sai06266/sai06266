@@ -3,12 +3,11 @@
 </div>  
   
 ### <div align="center">I'm Jaemin Jeong, a college student 👨‍🎓 since 2019 🚀</div>  
-  
-- 🔭 I’m studying at ***Seoul National University of Science and Technology🎓***  
-
-- 🌱 I’m currently learning ***Python*** and studying ***Swift***  
-
+* 🔭 I’m studying at ***Seoul National University of Science and Technology🎓***  
+* 🌱 I’m currently learning ***Python*** and studying ***Swift***
+</p>  
 <br/>
+
 ## <div align="center">My Skill Set</div>  
 <p align="center">
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
