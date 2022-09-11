@@ -24,7 +24,8 @@
 
 ## <div align="center">Connect with me</div> 
 <p align="center">
-<a href="https://github.com/sai06266" target="_blank"><img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github"/></a>  
+<a href="https://github.com/sai06266" target="_blank"><img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github"/></a>
+<a href="mailto:sai06266@gmail.com" target="_blank"><img src=https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:sai06266@gmail.com></a>
 </p>  
 <br/>  
 
