@@ -9,9 +9,7 @@
 - 🌱 I’m currently learning ***Python*** and studying ***Swift***  
 
 <br/>
-<div align="center">
-## My Skill Set  
-</div>
+## <div align="center">My Skill Set</div>  
 <p align="center">
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
@@ -25,12 +23,12 @@
 </p>
 <br/>
 
-## Connect with me  
+## <div align="center">Connect with me</div> 
 <p align="center">
 <a href="https://github.com/sai06266" target="_blank"><img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github"/></a>  
 </p>  
 <br/>  
 
-## Github Stats  
+## <div align="center">Github Stats</div>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sai06266&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
 <br/>
